@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VelizarDimitrov/fitness-app-react.git/static/css/main.20acbc28.css",
-    "main.js": "/VelizarDimitrov/fitness-app-react.git/static/js/main.aa3b35c0.js",
-    "static/media/banner.png": "/VelizarDimitrov/fitness-app-react.git/static/media/banner.5209b5e92a864ca0c615.png",
-    "static/media/gym.png": "/VelizarDimitrov/fitness-app-react.git/static/media/gym.6e701417c428e2fbc267.png",
-    "index.html": "/VelizarDimitrov/fitness-app-react.git/index.html",
-    "main.20acbc28.css.map": "/VelizarDimitrov/fitness-app-react.git/static/css/main.20acbc28.css.map",
-    "main.aa3b35c0.js.map": "/VelizarDimitrov/fitness-app-react.git/static/js/main.aa3b35c0.js.map"
+    "main.css": "/fitness-app-react/static/css/main.20acbc28.css",
+    "main.js": "/fitness-app-react/static/js/main.d5b89729.js",
+    "static/media/banner.png": "/fitness-app-react/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/fitness-app-react/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/fitness-app-react/index.html",
+    "main.20acbc28.css.map": "/fitness-app-react/static/css/main.20acbc28.css.map",
+    "main.d5b89729.js.map": "/fitness-app-react/static/js/main.d5b89729.js.map"
   },
   "entrypoints": [
     "static/css/main.20acbc28.css",
-    "static/js/main.aa3b35c0.js"
+    "static/js/main.d5b89729.js"
   ]
 }
