@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VelizarDimitrov/fitness-app-react.git/static/css/main.20acbc28.css",
+    "main.js": "/VelizarDimitrov/fitness-app-react.git/static/js/main.aa3b35c0.js",
+    "static/media/banner.png": "/VelizarDimitrov/fitness-app-react.git/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/VelizarDimitrov/fitness-app-react.git/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/VelizarDimitrov/fitness-app-react.git/index.html",
+    "main.20acbc28.css.map": "/VelizarDimitrov/fitness-app-react.git/static/css/main.20acbc28.css.map",
+    "main.aa3b35c0.js.map": "/VelizarDimitrov/fitness-app-react.git/static/js/main.aa3b35c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20acbc28.css",
+    "static/js/main.aa3b35c0.js"
+  ]
+}
